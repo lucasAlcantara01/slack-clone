@@ -27,7 +27,6 @@ export function SidebarButton({
         <Icon className="size-5 text-white group-hover:scale-110 transition-all" />
       </Button>
       <span className="text-[11px] text-white group-hover:text-accent">
-        {' '}
         {label}
       </span>
     </div>
